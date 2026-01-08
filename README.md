@@ -19,7 +19,7 @@ Four forces (North, South, East, West) compete to push a central "Core" into opp
 
 This web application features the complete base game along with advanced expansion modules like **"Gravity Shift"** and **"Secret Alliance"**.
 
-👉 **[Play Demo Here](https://your-demo-url.vercel.app)** (Replace with your link)
+👉 **[Play Demo Here](https://github.com/Ronkyyyyy/SquareForce/blob/2f730d87b9f488addc22e00b8406b6b055986d7c/index.html)**
 
 ### 🎮 Game Features
 
@@ -86,7 +86,7 @@ npm run dev
 
 本アプリは、基本ルールに加え、物理法則が変化する「グラビティ・シフト」や、正体隠匿モード「シークレット・アライアンス」を完全実装しています。
 
-👉 **[デモをプレイする](https://www.google.com/url?sa=E&source=gmail&q=https://your-demo-url.vercel.app)** （ここにURLを入れてください）
+👉 **[デモをプレイする](https://github.com/Ronkyyyyy/SquareForce/blob/2f730d87b9f488addc22e00b8406b6b055986d7c/index.html)**
 
 ### 🎮 ゲームの特徴
 
