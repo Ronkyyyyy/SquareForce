@@ -71,6 +71,8 @@ npm install
 # Run development server
 npm run dev
 
+```
+
 ---
 
 <a name="japanese"></a>
